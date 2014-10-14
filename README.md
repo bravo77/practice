@@ -14,7 +14,10 @@ practice
 6th change at 7:31
 
 8th change to be reverted
+<<<<<<< HEAD
 
 9th change to be reverted
 
 10th to be reverted
+=======
+>>>>>>> parent of 93d057c... 9 to be reverted
